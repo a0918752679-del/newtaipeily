@@ -1,0 +1,18 @@
+{
+  "name": "newtaipei-noise-control-system-v19-ntpc-tech",
+  "version": "19.0.0",
+  "description": "New Taipei NTPC noise vehicle LINE BOT enterprise system with upgraded technology rich menu UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "xlsx": "^0.18.5"
+  }
+}

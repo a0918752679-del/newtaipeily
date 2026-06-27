@@ -1,0 +1,201 @@
+{
+  "version": "19.0.0",
+  "annualGoal": 490,
+  "summary": {
+    "sessions": 296,
+    "traffic": 303110,
+    "exceed": 910,
+    "fines": 56,
+    "notices": 27,
+    "vehicleCases": 83
+  },
+  "months": {
+    "2": {
+      "sessions": 32,
+      "traffic": 42180,
+      "exceed": 158,
+      "fines": 12,
+      "notices": 7
+    },
+    "3": {
+      "sessions": 56,
+      "traffic": 68420,
+      "exceed": 217,
+      "fines": 14,
+      "notices": 6
+    },
+    "4": {
+      "sessions": 61,
+      "traffic": 72110,
+      "exceed": 186,
+      "fines": 10,
+      "notices": 5
+    },
+    "5": {
+      "sessions": 74,
+      "traffic": 80190,
+      "exceed": 244,
+      "fines": 13,
+      "notices": 6
+    },
+    "6": {
+      "sessions": 73,
+      "traffic": 40210,
+      "exceed": 105,
+      "fines": 7,
+      "notices": 3
+    }
+  },
+  "districts": {
+    "板橋區": {
+      "sessions": 32,
+      "traffic": 39120,
+      "exceed": 118,
+      "fines": 8,
+      "notices": 4
+    },
+    "三重區": {
+      "sessions": 28,
+      "traffic": 30420,
+      "exceed": 82,
+      "fines": 5,
+      "notices": 3
+    },
+    "中和區": {
+      "sessions": 26,
+      "traffic": 28600,
+      "exceed": 76,
+      "fines": 4,
+      "notices": 3
+    },
+    "新莊區": {
+      "sessions": 31,
+      "traffic": 35890,
+      "exceed": 94,
+      "fines": 6,
+      "notices": 3
+    },
+    "土城區": {
+      "sessions": 18,
+      "traffic": 22140,
+      "exceed": 70,
+      "fines": 5,
+      "notices": 2
+    },
+    "淡水區": {
+      "sessions": 24,
+      "traffic": 26650,
+      "exceed": 88,
+      "fines": 6,
+      "notices": 3
+    },
+    "汐止區": {
+      "sessions": 22,
+      "traffic": 23840,
+      "exceed": 63,
+      "fines": 3,
+      "notices": 2
+    },
+    "新店區": {
+      "sessions": 21,
+      "traffic": 21250,
+      "exceed": 58,
+      "fines": 3,
+      "notices": 1
+    },
+    "樹林區": {
+      "sessions": 20,
+      "traffic": 19800,
+      "exceed": 54,
+      "fines": 4,
+      "notices": 1
+    },
+    "蘆洲區": {
+      "sessions": 17,
+      "traffic": 17200,
+      "exceed": 45,
+      "fines": 3,
+      "notices": 1
+    },
+    "五股區": {
+      "sessions": 16,
+      "traffic": 16530,
+      "exceed": 41,
+      "fines": 2,
+      "notices": 1
+    },
+    "泰山區": {
+      "sessions": 13,
+      "traffic": 13460,
+      "exceed": 36,
+      "fines": 2,
+      "notices": 1
+    },
+    "林口區": {
+      "sessions": 12,
+      "traffic": 11980,
+      "exceed": 30,
+      "fines": 2,
+      "notices": 1
+    },
+    "八里區": {
+      "sessions": 8,
+      "traffic": 8230,
+      "exceed": 22,
+      "fines": 1,
+      "notices": 1
+    },
+    "三峽區": {
+      "sessions": 8,
+      "traffic": 8000,
+      "exceed": 19,
+      "fines": 1,
+      "notices": 1
+    },
+    "其他行政區": {
+      "sessions": 0,
+      "traffic": -20000,
+      "exceed": 14,
+      "fines": 1,
+      "notices": -1
+    }
+  },
+  "plates": {
+    "ABC-1234": {
+      "repeat": 3,
+      "maxDb": 98.7,
+      "lastDate": "115/06/18",
+      "district": "淡水區",
+      "fines": 1,
+      "notices": 2
+    },
+    "ABC1234": {
+      "repeat": 3,
+      "maxDb": 98.7,
+      "lastDate": "115/06/18",
+      "district": "淡水區",
+      "fines": 1,
+      "notices": 2
+    }
+  },
+  "equipment": [
+    {
+      "id": "OE-ZB001",
+      "bitestDate": "2026/05/18",
+      "soundMeterDate": "2026/04/10",
+      "windMeterDate": "2026/04/10"
+    },
+    {
+      "id": "OE-ZB003",
+      "bitestDate": "2024/07/18",
+      "soundMeterDate": "2025/07/08",
+      "windMeterDate": "2025/07/08"
+    },
+    {
+      "id": "OE-ZB009",
+      "bitestDate": "2026/04/21",
+      "soundMeterDate": "2025/07/20",
+      "windMeterDate": "2025/07/20"
+    }
+  ]
+}
